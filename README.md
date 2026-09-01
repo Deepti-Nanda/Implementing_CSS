@@ -131,3 +131,8 @@ If you like this project, consider giving the repository a ⭐ on GitHub!
 ### Made with ❤️ by Deepti Nanda
 
 **HTML • CSS • Creativity • Continuous Learning**
+
+## 📜 License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
